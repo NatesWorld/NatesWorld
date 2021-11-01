@@ -6,7 +6,7 @@
       <td>
          <p align="center">
         <h2 align="center">About Me</h2>
-        <h5 align="center"> I am a 15 year-old HTML, CSS, SCSS, Javascript, Python, Shell, Developer, currently working as a BetterDiscord, Powercord, Goosemod, Vizality, Aluicord, Stylus theme/plugin Developer! </h5>
+        <h5 align="left"> I am a 15 year-old HTML, CSS, SCSS, Javascript, Python, Shell, Developer, currently working as a BetterDiscord, Powercord, Goosemod, Vizality, Aluicord, Stylus theme/plugin Developer! </h5>
         <h5 align="center"> Below are some projects I am projects I am working on. </h5>
          </p>  
       </td>
@@ -33,7 +33,10 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatesWorld&repo=NatesWorld&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" /> 
         <h2 align="center"> Projects In Progress <h2/>
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatesWorld&repo=NatesWorld.github.io&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" />
-        <h2 align="center"> Upcoming <h2/>        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatesWorld&repo=NatesWorld.github.io&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" />
+        <h2 align="center"> <h2/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatesWorld&repo=NatesWorld&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" /> 
+        <h2 align="center"> Upcoming <h2>        
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatesWorld&repo=NatesWorld.github.io&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" />
         <h2 align="center"> Deprecated Projects <h2/>
         <h5 align="center"> NONE <h5/> 
         <h2 align="center"> Supported Projects <h2/>
@@ -47,7 +50,7 @@
       <td>
       <h2 align="center"> My Discord Themes <h2/>
       <h5 align="center"> This is a collection of Discord Themes made by me!<h5/>
-      <h5 align="center">NONE<h5/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Discord-Plugins-Themes&repo=Native&bg_color=202225&title_color=5865f2&text_color=fff&icon_color=fff&border_color=5865f2&border_radius=20" /> 
          </p>  
       </td> 
 
@@ -79,5 +82,4 @@
       <h5 align="center">NONE<h5/>
          </p>  
       </td> 
-
 
